@@ -22,4 +22,4 @@ I hold a master's degree in electrical engineering from Sharif [University of Te
 With a profound interest in computer science applications within wireless communication, I am keenly interested in exploring the intersection of these two fields. My passion lies in delving into topics such as machine learning, reinforcement learning, and game theory within the domain of wireless communication systems.
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<! ---Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
